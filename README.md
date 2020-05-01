@@ -12,7 +12,7 @@ bowls, randomly selects a ticket from each item’s bowl to determine the winnin
 item is transferred to the winning bidder. Total money collected is the fund raised by the penny social
 auction.
 
-##I have implemented this concept on blockchain. This provides the added advantage of credibility, anonymity and decentrailization.
+## I have implemented this concept on blockchain. This provides the added advantage of credibility, anonymity and decentrailization.
 
 For the sake of simplicity I have made a few assumptions.
 * Fixed number of bidders, initialized to 4. All 4 need to self-register. Funds transfer from bidder is
