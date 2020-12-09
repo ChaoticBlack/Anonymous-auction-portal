@@ -1,8 +1,8 @@
 # Anonymous-auction-portal
 An anonymous auction portal on ethereum blockchain
 
-Consider the problem of Chinese auction or penny social. We will refer to it as simple “Auctiion". The organizers collect items to be auctioned off for raising funds. Before the auction, the items for auctions are received and arranged each with a bowl
-to place the bid. A chairperson is a special person among the organizers. She/he heads the effort and is
+Consider the problem of Chinese auction or penny social. We will refer to it as simple “Auction". The organizers collect items to be auctioned off for raising funds. Before the auction, the items for auctions are received and arranged each with a bowl
+to place the bid. A chairperson is a special person among the organizers. He/she heads the effort and is
 the only person who can determine the winner by random drawing at the end of the auction. A set of
 bidders buy sheets of tickets with their money. The bidder’s sheet has a stub that identifies the bidder’s
 number, and tokens bought.
